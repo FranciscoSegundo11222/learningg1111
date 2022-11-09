@@ -1,0 +1,29 @@
+.text {
+    text-align: center;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+.fundo {
+    background-color: rgba(53, 52, 52, 0.5);
+    padding: 10px;
+    justify-content: center;
+}
+
+.cor {
+    background: rgba(63, 1, 63, 0.815);
+}
+
+.interface {
+    margin-right: 250px;
+    margin-left: 250px;
+    margin-top: 30px;
+    text-align: initial;
+    background: grey;
+    padding: 250px;
+    border-radius: 10px;
+}
+
+.interface h1 {
+    margin-bottom: 100px;
+}
